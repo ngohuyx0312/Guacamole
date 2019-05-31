@@ -3,3 +3,4 @@ tomato
 onion
 limeø
 cilantro
+salt
